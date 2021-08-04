@@ -4,16 +4,16 @@ Git odoo v12 instalation personalized script
 #!/bin/bash
 ################################################################################
 # Script for installing Odoo on Ubuntu 14.04, 15.04, 16.04 and 18.04 (could be used for other version too)
-# Author: Yenthe Van Ginneken
+# Author: Pedro Bocio / Yenthe Van Ginneken
 #-------------------------------------------------------------------------------
-# This script will install Odoo on your Ubuntu 16.04 server. It can install multiple Odoo instances
+# This script will install Odoo on your Ubuntu 18 server. It can install multiple Odoo instances
 # in one Ubuntu because of the different xmlrpc_ports
 #-------------------------------------------------------------------------------
-# Make a new file:
-# sudo nano git_odoo_install.sh
+# not need edit direct file it will ask for variables:
+  sudo nano git_vp_ov12_script.sh
+  # answer for odoo version, webpage, mail, etc.
 # Place this content in it and then make the file executable:
-# sudo chmod +x git_odoo_install.sh
+  sudo chmod +x git_vp_ov12_script.sh
 # Execute the script to install Odoo:
-# ./git_odoo_install.sh
+ ./git_vp_ov12_script.sh
 
-# answer for odoo version, webpage and mail.
