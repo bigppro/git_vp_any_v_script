@@ -11,7 +11,7 @@
 # Place this content in it and then make the file executable:
 # sudo chmod +x git_odoo_install.sh
 # Execute the script to install Odoo:
-# ./git_odoo_install.sh
+# sudo ./git_odoo_install.sh
 ################################################################################
 
 OE_USER="odoo"
