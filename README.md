@@ -12,5 +12,5 @@
 # Place this content in it and then make the file executable:
   sudo chmod +x git_vp_ov12_script.sh
 # Execute the script to install Odoo:
- ./git_vp_ov12_script.sh
+ sudo ./git_vp_ov12_script.sh
 
