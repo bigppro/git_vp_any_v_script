@@ -11,6 +11,7 @@
 #-------------------------------------------------------------------------------
 # not need edit direct file it will ask for variables:
   sudo nano git_vp_ov12_script.sh
+# OJO:
   version needs dot and zero at the end: ej: 13.0
   # answer for odoo version, webpage, mail, etc.
 # Place this content in it and then make the file executable:
