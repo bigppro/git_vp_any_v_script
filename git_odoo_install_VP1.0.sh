@@ -45,7 +45,7 @@ LONGPOLLING_PORT="8072"
 # Set to "True" to install certbot and have ssl enabled, "False" to use http
 ENABLE_SSL="True"
 # Provide Email to register ssl certificate
-echo "?Que SSL_ADMIN_EMAIL?"
+echo "?Que SSL_ADMIN_EMAIL? if none put: _"
 read SSL_ADMIN_EMAIL
   #SSL_ADMIN_EMAIL="odoo@example.com"
 ##
